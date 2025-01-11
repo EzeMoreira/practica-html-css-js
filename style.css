@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    color: red;
+}
+
+div{
+    border: 2px solid black;
+    display: inline-block;
+    padding: 25px;
+    margin-top: 10px;
+}
+
+#precio{
+    border: 2px solid black;
+    display: inline-block;
+}
