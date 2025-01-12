@@ -1,5 +1,7 @@
 body{
-    text-align: center;
+    /* text-align: center; */
+    justify-content: space-around;
+    display:flex;
     color: white;
     background-image: url(./img/degradado_naranja_jpg.jpg);
 }
