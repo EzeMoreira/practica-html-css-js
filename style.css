@@ -1,17 +1,18 @@
 body{
     text-align: center;
-    justify-content: space-around;
+    justify-content:space-between;
     display:flex;
     color: white;
     background-image: url(./img/degradado_naranja_jpg.jpg);
 }
 
 div{
-    border: 2px dashed black;
-    width: 40%;
-    height: 40%;
-    padding: 25px;
-    margin-top: 10px;
+    display: inline-block;
+    border: 2px dashed white;
+    width: 30%;
+    height: 30%;
+    padding: 15px;
+    margin-top: 15px;
     background-color: rgb(226, 71, 14);
     border-radius: 10px;
 }
@@ -23,6 +24,7 @@ img{
 }
 
 #precio{
+    display: inline-block;
     border: 2px solid black;
     background-color: black;
     border-radius: 10px;
