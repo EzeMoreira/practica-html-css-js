@@ -23,9 +23,11 @@ img{
 #auto{
     border: 2px dashed black;
     border-radius: 20px;
+    margin-left: 10%;
 }
 
 #precio{
     background-color: orange;
     color: black;
+    margin-left: 10%;
 }
