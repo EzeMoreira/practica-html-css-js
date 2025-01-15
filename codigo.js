@@ -1,3 +1,5 @@
+const boton = document.getElementById('compro');
+
 function mostrarCartel(){
-    alert("Compraste el producto")
+    boton.innerHTML = "Producto comprado con éxito"
 }
