@@ -102,3 +102,8 @@ footer p {
     padding: 25px;
     margin-bottom: 0%;
 }
+
+a{
+    color: white;
+    text-decoration: none;
+}
