@@ -107,3 +107,18 @@ a{
     color: white;
     text-decoration: none;
 }
+
+form{
+    text-align: center;
+    display: inline-block;
+}
+
+input{
+    text-align: center;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+label{
+    font-size: large;
+}
