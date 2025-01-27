@@ -2,6 +2,7 @@ body{
     background-image: url(./img/degradado_naranja_jpg.jpg);
     text-align: center;
     color: white;
+    font-family: monospace;
 }
 
 div{
@@ -117,8 +118,17 @@ input{
     text-align: center;
     display: inline-block;
     margin: 0 auto;
+    background: grey;
+    color: white;
+    border: none;
+}
+
+input:hover{
+    font-size:small;
+    border: 1.5px dashed white;
 }
 
 label{
-    font-size: large;
+    font-size: larger;
+    color: black;
 }
