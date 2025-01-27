@@ -2,6 +2,7 @@ body{
     background-image: url(./img/degradado_naranja_jpg.jpg);
     text-align: center;
     color: white;
+    margin: 0px;
 }
 
 div{
@@ -85,14 +86,14 @@ img{
 
 ul{
     background-color: black;
-    margin-top: 0%;
 }
 
 li {
+    margin: 0;
     list-style: none;
     font-size: larger;
     display: inline-block;
-    padding: 25px;
+    padding: 15px;
     color: white;
 }
 
