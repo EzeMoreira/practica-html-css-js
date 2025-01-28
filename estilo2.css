@@ -41,8 +41,6 @@ img{
     background-color: black;
     width: 60%;
     margin-bottom: 5px;
-    /* margin-left: 25px;
-    padding: 15px; */
 }
 
 .boton{
@@ -54,6 +52,7 @@ img{
     background-color: black;
     color: white;
     border: 2px solid white;
+    cursor: pointer;
 }
 
 .boton:hover{
@@ -74,6 +73,7 @@ img{
     background-color: black;
     color: white;
     border: 2px solid white;
+    cursor: pointer;
 }
 
 .botonFav:hover{
