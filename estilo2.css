@@ -58,11 +58,12 @@ img{
 
 .boton:hover{
     font-size: larger;
-    margin: 5px;
-    padding: 5px;
+    margin: 3px;
+    padding: 3px;
+    border-radius: 5px;
     background-color: orange;
     color: black;
-    border: 2px dashed black;
+    border: 1.5px dashed black;
 }
 
 .botonFav{
@@ -77,11 +78,11 @@ img{
 
 .botonFav:hover{
     font-size: larger;
-    margin: 5px;
-    padding: 5px;
+    margin: 3px;
+    padding: 3px;
     background-color: orange;
     color: black;
-    border: 2px dashed black;
+    border: 1.5px dashed black;
 }
 
 ul{
