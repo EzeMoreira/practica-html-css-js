@@ -29,7 +29,7 @@ img{
 #auto{
     width: 75%;
     border: 2px solid white;
-    background-color: black;
+    background: linear-gradient(to bottom, grey,black );
     border-radius: 20px;
     margin: 15px;
 }
