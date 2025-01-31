@@ -125,7 +125,9 @@ input{
 
 input:hover{
     font-size:medium;
-    border: 1.5px dashed white;
+    background: black;
+    color: orangered;
+    border: 2px solid white;
 }
 
 label{
