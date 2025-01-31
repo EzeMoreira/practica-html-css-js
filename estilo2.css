@@ -125,7 +125,7 @@ input{
 }
 
 input:hover{
-    font-size:small;
+    font-size:medium;
     border: 1.5px dashed white;
 }
 
